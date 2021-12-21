@@ -60,10 +60,10 @@ class TK():
         json_input = json.dumps(setDict)
         # print(json_output)
         json_output = cropData.setCropBase(self, data=json_input)
-        if(json_output['result'] == 'no'):
-            tkinter.messagebox.showinfo("경고", "권한 없음")
+        if(json_output['result'] == 'ok'):
+            tkinter.messagebox.showinfo("알림", "저장 완료")            
         else:
-            tkinter.messagebox.showinfo("알림", "저장 완료")
+            tkinter.messagebox.showinfo("경고", "권한 없음")
 
     def makeSetting(self):
         TK.settingWindow = tkinter.Toplevel(TK.window)
