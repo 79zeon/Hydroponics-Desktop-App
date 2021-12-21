@@ -5,15 +5,13 @@
 <table>
   <tr>
     <td><img src="screenshots/before_login.png"></img></td>
-    <td><img src="screenshots/after_login.png"></img></td>
-    
+    <td><img src="screenshots/after_login.png"></img></td>    
   </tr>
   <tr>
-  <td><img src="screenshots/info.png"></img></td>
-  <td><img src="screenshots/graph.png"></img></td>
+    <td><img src="screenshots/info.png"></img></td>
+    <td><img src="screenshots/graph.png"></img></td>
   </tr>
-  <tr>
-    
+  <tr>    
     <td><img src="screenshots/gallery.png"></img></td>
     <td><img src="screenshots/setting.png"></img></td>
   </tr>
