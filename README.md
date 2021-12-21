@@ -5,6 +5,7 @@
 - [Introduce](#Introduce)
 - [Requirement](#Requirement)
 - [Reference](#Reference) 
+- [License](#License)
 ## ScreenShot
 
 
@@ -42,3 +43,6 @@
 ## Reference
 
 - 참고링크 폴더 참조
+
+## License
+- MIT License
