@@ -11,9 +11,10 @@
 <img src="screenshots/after_login.png" alt="로그인 후"></img> 
 <img src="screenshots/info.png" alt="개요 창"></img>
 <img src="screenshots/graph.png" alt="그래프 창"></img>
+<img src="screenshots/kakao_login.png" alt="셀레니움 로그인 창"></img>
 <img src="screenshots/gallery.png" alt="이미지 창"></img>
 <img src="screenshots/setting.png" alt="설정 창"></img>
-<img src="screenshots/kakao_login.png" alt="셀레니움 로그인 창"></img>
+
 
   
 
