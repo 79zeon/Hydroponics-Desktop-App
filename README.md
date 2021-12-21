@@ -2,6 +2,7 @@
 
 ## Overview
 - [ScreenShot](#ScreenShot)
+- [Introduce](#Introduce)
 - [Requirement](#Requirement)
 - [Reference](#Reference) 
 ## ScreenShot
@@ -15,8 +16,15 @@
 <img src="screenshots/gallery.png" alt="이미지 창"></img>
 <img src="screenshots/setting.png" alt="설정 창"></img>
 
+## Introduce
+- 서버 설명
+  - c++ 기반의 소켓 서버가 존재합니다.
+  - 이 서버는 작물의 수경재배를 관리하고 온도와 습도, 물의 성분, 작물의 이미지 등을 각종 센서들을 통해 전달받아 작물이 정상적으로 성장할 수 있도록 환경을 조절하는 기능을 가집니다.
+  - 또한 그러한 센서들의 정보와 회원 정보를 관리하기 위해 내부에 DB를 가지고 있습니다.
+  - 서버는 http 프로토콜을 사용하도록 코딩되어있으며 GET, POST와 같은 request에 응답합니다.
+- 앱 설명
+  - 파이썬에서 화면을 출력하는 GUI 라이브러리로 tkinter를 사용합니다.
 
-  
 
 ## Requirement
 
